@@ -1,106 +1,68 @@
-# **CodeKshetra 2.0 - Delhi's Biggest Hackathon 🏆**
+# Code-E-Manipal Hackathon Website – Open Source Contribution by Nevin Bali
 
-Welcome to CodeKshetra 2.0 — Delhi’s largest hackathon, where innovation meets passion! Whether you're a first-time coder or a seasoned developer, this hackathon is for everyone who loves to create, collaborate, and innovate. 💻✨
+This repository documents my open source contributions to the official website of **Code-E-Manipal**, a hackathon organized by **Manipal University Jaipur (MUJH)**. The event brought together developers and creators to solve innovative challenges in a competitive, high-energy environment.
 
-### Date & Location: 📅
+As part of this experience, I actively contributed as a:
 
-- **Date:** TBD  
-- **Location:** TBD  
-
-## **What is CodeKshetra 2.0? 🤔**
-
-CodeKshetra 2.0 is a 48-hour coding marathon where developers, designers, and entrepreneurs come together to build groundbreaking solutions to real-world problems. With over 500+ participants, engaging tech talks, and hands-on workshops, it’s your chance to network, learn, and win exciting prizes!
-
-## **Why Participate? 🎯**
-
-- Build and showcase your innovative projects.
-- Connect with industry experts, mentors, and tech enthusiasts.
-- Win exciting prizes, swag, and job opportunities.
-- Gain exposure and enhance your portfolio.
+- 🎨 **Frontend Developer** – Designing and building UI components for the hackathon website.
+- 🚀 **Passionate Participant** – Engaging in the hackathon challenges with creativity and collaboration.
 
 ---
 
-## **🚀 Contributing to CodeKshetra 2.0**
+## 🌐 About Code-E-Manipal – MUJH Hackathon
 
-Want to contribute? We welcome developers, designers, and tech enthusiasts to improve our platform! Follow the steps below to contribute:
-
-1. **Fork the repository 🍴**
-
-   Head over to the CodeKshetra 2.0 GitHub repository and click the "Fork" button at the top right of the page.
-
-2. **Clone your forked repository 🖥️**
-
-```bash
-git clone https://github.com/your-username/CodeKshetra2.0.git
-```
-
-3. **Create a new branch for your feature 🛠️**
-
-```bash
-git checkout -b feature-branch-name
-```
-
-4. **Make your changes ✨**
-
-Edit the files you want to contribute to. Be sure to follow the project’s coding guidelines.
-
-
-5. **Commit your changes 📝**
-
-```bash
-git add .
-git commit -m "Add [Feature]"
-```
-
-6. **Push your branch 📤**
-
-```bash
-git push origin feature-branch-name
-```
-
-7. **Submit a Pull Request 🚩**
-
-Go to the original repository on GitHub, click "Compare & pull request," and describe the changes you've made.
-
-We’ll review your changes and merge them into the project! 🎉
-
+Held in **Jaipur, Rajasthan**, the **Code-E-Manipal Hackathon** served as a dynamic platform for students and developers across India to ideate, build, and present tech-based solutions. The official website played a central role in facilitating registrations, event schedules, team coordination, and result announcements.
 
 ---
 
-How You Can Help 💡
+## 🚀 Tech Stack Used
 
-1. Report bugs – Found something that’s not working? Create an issue.
-
-
-2. Improve documentation – Enhance our documentation to help others contribute better.
-
-
-3. Suggest new features – Got an idea? Let’s discuss it by opening a new feature request.
-
-
-4. Submit pull requests – Improve the codebase or design by contributing through pull requests.
-
-
-
+- **React.js** – For creating a dynamic, component-based frontend architecture.
+- **Tailwind CSS** – For responsive, utility-first styling and rapid UI prototyping.
+- **JavaScript (ES6+)** – For client-side logic and interactivity.
+- *(Optional: Netlify/Vercel)* – For deploying and maintaining the live site.
 
 ---
 
-🌟 Sponsors & Partners
+## 🛠️ My Contributions
 
-We are grateful to our sponsors and partners for making CodeKshetra 2.0 possible:
-
-Platinum Sponsors: TBD
-
-Gold Sponsors: TBD
-
-Community Partners: TBD
-
-
+- Developed responsive and accessible UI components including:
+  - Hero sections
+  - Event timeline
+  - Registration forms
+  - Tracks and prizes layout
+- Optimized the layout for both mobile and desktop devices.
+- Collaborated with fellow developers to align UI with design specs.
+- Contributed to issue resolution and GitHub-based version control workflows.
+- Participated as an enthusiastic hacker during the event, bringing innovation to the table.
 
 ---
 
-📞 Contact Us
+## 📁 Project Structure Overview
 
-For more information, check out our official website or reach out via email: community@geekroom.in.
+``` bash
+├── public/ # Static assets and metadata
+├── src/
+│ ├── components/ # Reusable frontend components
+│ ├── pages/ # Primary page views
+│ ├── styles/ # Global styles and Tailwind config
+│ └── App.jsx # Main app entry
+├── tailwind.config.js # Tailwind configuration
+├── package.json # Dependency and project config
+└── README.md # Project documentation
 
-Happy Hacking! 💻✨
+
+```
+
+---
+
+## 💡 Learning & Impact
+
+Contributing to Code-E-Manipal gave me the opportunity to:
+
+- Deepen my frontend development skills in a collaborative environment.
+- Work on a live production website with real-time deployment constraints.
+- Participate in a high-spirited hackathon while also supporting the developer community.
+- Balance the dual role of contributor and hacker — experiencing both teamwork and creative competition.
+
+---
