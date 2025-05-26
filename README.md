@@ -1,5 +1,8 @@
 # Code-E-Manipal Hackathon Website – Open Source Contribution by Nevin Bali
 
+![image](https://github.com/user-attachments/assets/806a53ae-cd12-4d68-85b9-a7d6dcbaaa69)
+
+
 This repository documents my open source contributions to the official website of **Code-E-Manipal**, a hackathon organized by **Manipal University Jaipur (MUJH)**. The event brought together developers and creators to solve innovative challenges in a competitive, high-energy environment.
 
 As part of this experience, I actively contributed as a:
